@@ -21,7 +21,7 @@
 
         <!-- כפתורי קישורים -->
         <div class="links">
-            <a href="https://kick.com" target="_blank" class="link-card kick">
+            <a href="https://kick.com/oshermontana1" target="_blank" class="link-card kick">
                 <div class="link-info">
                     <span class="badge">LIVE NOW</span>
                     <h2>Kick</h2>
@@ -29,7 +29,7 @@
                 </div>
             </a>
 
-            <a href="https://discord.com" target="_blank" class="link-card discord">
+            <a href="https://discord.gg/bCcqmGTAJ3" target="_blank" class="link-card discord">
                 <div class="link-info">
                     <span class="badge">COMMUNITY</span>
                     <h2>Discord</h2>
@@ -37,7 +37,7 @@
                 </div>
             </a>
 
-            <a href="https://instagram.com" target="_blank" class="link-card instagram">
+            <a href="https://www.instagram.com/oshermontana1/" target="_blank" class="link-card instagram">
                 <div class="link-info">
                     <span class="badge">STORIES</span>
                     <h2>Instagram</h2>
@@ -45,7 +45,7 @@
                 </div>
             </a>
 
-            <a href="https://tiktok.com" target="_blank" class="link-card tiktok">
+            <a href="https://www.tiktok.com/@oshermontana1" target="_blank" class="link-card tiktok">
                 <div class="link-info">
                     <span class="badge">CLIPS</span>
                     <h2>TikTok</h2>
